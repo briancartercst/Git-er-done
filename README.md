@@ -29,3 +29,6 @@ Git'er Done is a node.js starter kit.  You won't find anything fancy here, just 
 - Add dirty for database 
 - Logger helper
 - Release v1
+
+
+Moved to ChipSoftTech
